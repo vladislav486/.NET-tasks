@@ -29,7 +29,7 @@
                 }
                 catch (Exception e) 
                 {
-                    Console.WriteLine("You've inserted the wrong notation. It could be 2, 8 or 16. Please try again");
+                    Console.WriteLine("You've inserted the wrong notation. It could be 2, 8 or 16. Please try again: ");
                     continue;
                 }
 
